@@ -1,5 +1,5 @@
 name: My Chip Zigbee NCP
-device: MGM260PD32VNA2
+device: MGM260PD32VNA
 base_project: src/zigbee_ncp
 filename: "{manifest_name}_{sdk_version}_{fw_version}_{baudrate}_{fw_variant}"
 sdk: "simplicity_sdk:2025.6.2"
